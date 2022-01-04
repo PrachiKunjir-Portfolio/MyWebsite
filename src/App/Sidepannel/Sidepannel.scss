@@ -1,0 +1,49 @@
+.sidepannel{
+    background-color: #171717;
+    width: 15%;
+    margin-top: -21px;
+    display: block;
+    
+    
+    
+   
+}
+ul{
+    list-style: none;
+    color: #EDEDED;
+    height:100% !important;
+}
+.mainname{
+    // font-family: 'Cormorant', serif;
+    font-size: 30px;
+    min-height: 90px;
+    padding-top: 50px;
+    font-weight: 300;
+    margin-left: -15px;
+}
+.designation{
+    line-height: 47px;
+    margin-left: 1px;
+    font-size: 18px;
+}
+hr{
+    border: 0;
+height: 0;
+border-top: 1px solid rgb(245, 240, 240);
+border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+margin-left: -28px;
+}
+li{
+    box-sizing: content-box;
+    color: #444444;
+    display: block;
+    line-height: 100%;
+    padding: 10px 0 12px;
+    color: #EDEDED;
+    list-style: none;
+   
+}
+link{
+    text-decoration: none;
+}
+

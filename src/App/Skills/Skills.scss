@@ -1,0 +1,74 @@
+// .education{ 
+//     width: 80%;
+//     margin-left: 180px;
+//     margin-top: 30px;
+//     position: relative;
+// }
+.main-about{ 
+    width: 85%;
+    margin-left: 205px;
+    margin-top: -540px;
+    position: relative;
+    
+}
+
+.nav{
+    padding: 10px 20px;
+    font-weight: 200;
+    background-color: #898B8A;
+    color: #EDEDED;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 65%;
+    margin-left: 240px;
+    height: 200px;
+    display: flex;
+    
+  }
+  .first-img{
+    margin-left: 40px;
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  .img-skillone{
+      height: 120px;
+      width: 110px;
+      padding: 32px;
+  }
+  .card-two{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 65%;
+    margin-left: 240px;
+    height: 200px;
+    display: flex;
+    margin-top: 20px;
+
+  }
+
+  .card-two:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .card-skill {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 1400px;
+    margin-top: 240px;
+    margin-left: -870px;
+    height: 60px;
+    // display: ;
+    background-color: rgb(8, 8, 8);
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+  }
+  .namep-skill{
+    margin-left: 10px;
+  }
+  

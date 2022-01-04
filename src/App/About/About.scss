@@ -1,0 +1,52 @@
+.main-about{ 
+  // width: 85%;
+  // margin-left: 205px;
+  // margin-top: -540px;
+  // position: relative;
+  width: 85%;
+  margin-left: 169px;
+  margin-top: -836px;
+  position: relative;
+}
+
+
+
+.nav{
+  padding: 10px 20px;
+  font-weight: 200;
+  background-color: #898B8A;
+  color: #EDEDED;
+}
+
+
+.ele-pitch {
+    border-left: 4px solid black;
+    height: 63px;
+    margin-left: 20px;
+
+  }
+  .p-ele-pitch{
+    margin-left: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+  }
+  .img-section{
+    margin-top: 40px;
+      border: solid 0.5px black;
+      height: 492px;
+      width: 950px;
+      margin-left: 70px;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(2, 18vw);
+      grid-gap: 1px;
+    //   display:inline;
+  }
+  .coffee{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .all-me{
+    margin-left: 50px;
+  }

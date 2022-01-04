@@ -1,0 +1,51 @@
+// .education{ 
+//     width: 80%;
+//     margin-left: 180px;
+//     margin-top: 30px;
+//     position: relative;
+// }
+.main-about { 
+    width: 85%;
+    margin-left: 205px;
+    margin-top: -540px;
+    position: relative;
+    
+}
+.projects{
+  margin-left: 200px;
+}
+.nav{
+    padding: 10px 20px;
+    font-weight: 200;
+    background-color: #898B8A;
+    color: #EDEDED;
+}
+
+.card-project {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    width: 37.5%;
+    margin-left: 40px;
+    height: 420px;
+    display: inline-block;
+    line-height: 2px;
+    font-family: 'Open Sans', sans-serif;
+    
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  .card-img{
+    height: 300px;
+    width: 430px;
+  }
+  .aed{
+    margin-top: 20px;
+    
+  }
+  .mySlides {display:none;}
