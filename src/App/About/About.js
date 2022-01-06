@@ -21,7 +21,7 @@ Current Focus: Front-end // React // UIUX and Web Design</p>
       <div className="img-section">
         {/* <div className="img-styling"> */}
           <div>
-          <img alt="coffee" className="coffee" src="https://PrachiKunjir-Portfolio.github.io/MyWebsite/blob/main/public/assets/coffee.jpg" />
+          <img alt="coffee" className="coffee" src="public/assets/coffee.jpg" />
           </div>
           <div>
           <img alt="coffee" className="coffee" src="assets\code.jpg" />
